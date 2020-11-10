@@ -1,0 +1,40 @@
+h1 {color: green;
+	text-align : center;
+	font-style: italic;
+	font-size: 60px;
+}
+
+.head1 {
+	text-align : center;
+	font-style: italic;
+	font-size: 45px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+li {
+	text-align : center;
+	font-style: italic;
+	font-size: 25px;
+	list-style-position: inside;
+	font-weight: bold;
+}
+
+body {
+	background-image: url('naomiharel.png');
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-size: 100% 100%;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.doneButton {
+  display: flex;
+  justify-content: center;
+}
